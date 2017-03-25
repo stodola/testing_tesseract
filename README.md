@@ -24,10 +24,10 @@ sudo apt-get install tesseract-ocr-pol
 pip install -r requirements.txt
 ```
 
-5. Run testing_tesseract.py.
+## Run testing_tesseract.py
 
 ```
-python testing_tesseract.py.
+python testing_tesseract.py
 ```
 
 
