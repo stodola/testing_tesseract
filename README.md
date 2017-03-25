@@ -27,7 +27,12 @@ pip install -r requirements.txt
 ## Run testing_tesseract.py
 
 ```
-python testing_tesseract.py
+python testing_tesseract.py <image>
 ```
 
+For example:
+
+```
+python testing_tesseract.py IMG_20170113_191448.jpg
+```
 
